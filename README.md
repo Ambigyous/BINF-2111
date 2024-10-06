@@ -2,7 +2,11 @@
 Lab7 Question 6
 
 # Personal Info
-Aiden Schwab
+My name is Aiden Schwab.
+
 Fall 2023
-Bininformatics
-Senior
+
+My Major is Bininformatics.
+
+I'm a Senior.
+
